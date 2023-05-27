@@ -1,7 +1,7 @@
 # Image Denoising: Traditional Image Processing filters Vs. Deep Learning
 
 ## Introduction:
-Image Denoising is the the process of enhancing an image by removing any noise from it. There are some image processing filters that are usually used in image denoising. However, these filters usually result in blurring the original image and not removing the noise well. Recently, some Deep Learning methods has been used to denoise the image while preserving the quality of the original image. This prject tries to solve the questions: How to use Deep Learning in image denoising and How can traditional image processing filters and deep learning models be compared in this context.
+Image Denoising is the the process of enhancing an image by removing any noise from it. There are some image processing filters that are usually used in image denoising. However, these filters usually result in blurring the original image and not removing the noise well. Recently, some Deep Learning methods has been used to denoise the image while preserving the quality of the original image. This project tries to solve the questions: How to use Deep Learning in image denoising and How can traditional image processing filters and deep learning models be compared in this context?
 
 ## Data:
 [ImageNet-100](https://www.kaggle.com/datasets/ambityga/imagenet100) dataset is used in this project. It is a subset of ImageNet-1k Dataset from ImageNet Large Scale Visual Recognition Challenge 2012. A noised copy of the data is saved after adding gaussian noise with zero mean and 0.05 standard deviation.
